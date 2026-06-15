@@ -8,9 +8,12 @@ body{
     background-color: black;
     color: white;
     font-family: "Roboto", sans-serif;
+
+
 }
 
 .cabecalho{
     background-color: red;
     text-align: center;
+    padding: 20px;
 }
