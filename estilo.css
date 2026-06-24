@@ -28,3 +28,10 @@ main{
     margin: 0 auto;
     padding: 16px;
 }
+button{
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+}
