@@ -1,1 +1,2 @@
-alert ("olá multiverso")
+const botoes = document.querySelectorAll ("button")
+console.log(botoes)
